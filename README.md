@@ -12,8 +12,7 @@ NovelStore คือเว็บไซต์สำหรับขายและ
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- 
+- **Frontend**: HTML, CSS, JavaScript,TypeScript
 - **Framework**: React 
 - **Backend**: Go
 - **Database**: SQLite  
