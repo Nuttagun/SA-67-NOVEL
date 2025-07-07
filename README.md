@@ -22,4 +22,4 @@ NovelStore คือเว็บไซต์สำหรับขายและ
 
 1. Clone repo:
 ```bash
-git clone 
+git clone https://github.com/Nuttagun/SA-67-NOVEL
